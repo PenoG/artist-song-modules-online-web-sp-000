@@ -12,7 +12,7 @@ class Song
 
   @@songs = []
   
-  def initialize
+  def initialize(name)
     super
   end
 
